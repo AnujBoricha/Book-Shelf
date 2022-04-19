@@ -1,4 +1,4 @@
-<h1>Anuj Boricha || DTU Software Engineerign</h1>
+<h1>Anuj Boricha || DTU Software Engineering</h1>
 
 <h1 align="center">BOOK-SHELF </h1>
 
